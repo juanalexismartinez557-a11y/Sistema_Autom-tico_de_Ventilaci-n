@@ -1,1 +1,1 @@
-# Sistema_Autom-tico_de_Ventilaci-n
+# Sistema_Automatico_de_Ventilacion
